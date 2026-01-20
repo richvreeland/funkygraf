@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/my-react-app/', // Replace with your repo name
+  base: '/funkygraf/', // Replace with your repo name
 })
